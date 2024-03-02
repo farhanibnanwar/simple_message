@@ -1,2 +1,6 @@
 # simple_message
-Printing simple message, Exercise from Python Crash Course.
+ Store a message in a variable, and then print that message.
+
+# Operators used:
+1. Variable
+2. Print
